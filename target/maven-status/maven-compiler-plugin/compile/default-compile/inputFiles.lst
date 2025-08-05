@@ -1,0 +1,10 @@
+/workspace/src/main/java/com/itcompanies/config/DataInitializer.java
+/workspace/src/main/java/com/itcompanies/entity/Company.java
+/workspace/src/main/java/com/itcompanies/controller/CompanyController.java
+/workspace/src/main/java/com/itcompanies/service/CareerService.java
+/workspace/src/main/java/com/itcompanies/service/CompanyService.java
+/workspace/src/main/java/com/itcompanies/ItCompaniesPortalApplication.java
+/workspace/src/main/java/com/itcompanies/controller/CareerController.java
+/workspace/src/main/java/com/itcompanies/repository/CareerRepository.java
+/workspace/src/main/java/com/itcompanies/entity/Career.java
+/workspace/src/main/java/com/itcompanies/repository/CompanyRepository.java
