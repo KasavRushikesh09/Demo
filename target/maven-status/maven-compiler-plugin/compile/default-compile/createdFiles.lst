@@ -1,0 +1,10 @@
+com/itcompanies/entity/Career.class
+com/itcompanies/controller/CareerController.class
+com/itcompanies/repository/CareerRepository.class
+com/itcompanies/repository/CompanyRepository.class
+com/itcompanies/config/DataInitializer.class
+com/itcompanies/entity/Company.class
+com/itcompanies/service/CareerService.class
+com/itcompanies/controller/CompanyController.class
+com/itcompanies/ItCompaniesPortalApplication.class
+com/itcompanies/service/CompanyService.class
